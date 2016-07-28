@@ -1,2 +1,7 @@
-# templateReact
-so, let's start React.
+```
+sudo npm install gulp --save-dev
+```
+
+```
+sudo npm install
+``` 
